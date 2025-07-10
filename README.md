@@ -5,10 +5,9 @@ Back-end Engineer
 -----------------
 
 * 🌍  I'm based in Bordeaux, France
-* 🖥️  See my portfolio at [Codingcastor](http://codingcastor.com) (Coming)
+* 🖥️  See my (french) resume built for the [Cloud Resume Challenge](https://cloudresumechallenge.dev/) at [Codingcastor](http://codingcastor.com)
 * ✉️  You can contact me at [contact@codingcastor.com](mailto:contact@codingcastor.com)
 * 🚀  I'm currently working on [Calypso](http://www.calypso.ink) (Coming)
-* 🧠  I'm learning Svelte
 
 ### Skills
 
